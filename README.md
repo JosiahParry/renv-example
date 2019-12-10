@@ -11,3 +11,7 @@ If you run the script you will likely run into an error. You can recreate the en
 If you run `renv::restore()` this will identify which packages are missing or have different package versions. If you run this it will install the package in your default package library. If you would like to have it in a project level directory run `renv::init()`.
 
 For a review of `renv` visit https://rstudio.github.io/renv/articles/renv.html.
+
+## Recreate the visualization
+
+From your IDE create a new project from Git or version control. Provide the value `https://github.com/JosiahParry/renv-example.git` 
