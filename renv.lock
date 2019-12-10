@@ -4,7 +4,7 @@
     "Repositories": [
       {
         "Name": "RSPM",
-        "URL": "https://cluster.rstudiopm.com/cran/688"
+        "URL": "https://cran.rstudio.com"
       }
     ]
   },
@@ -461,13 +461,6 @@
       "Source": "Repository",
       "Repository": "RSPM",
       "Hash": "7c9aef08038f47e6c1532ed574a0e087"
-    },
-    "xml2": {
-      "Package": "xml2",
-      "Version": "1.2.0",
-      "Source": "Repository",
-      "Repository": "RSPM",
-      "Hash": "8a9818f279792f697dab45e8c7cdb3a8"
     },
     "zeallot": {
       "Package": "zeallot",
