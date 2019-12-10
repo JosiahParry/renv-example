@@ -130,7 +130,7 @@
     },
     "dplyr": {
       "Package": "dplyr",
-      "Version": "0.8.3",
+      "Version": "0.8.0",
       "Source": "Repository",
       "Repository": "RSPM",
       "Hash": "17783831e1e918ab250dcae5dd9c6e03"
@@ -323,6 +323,18 @@
       "Source": "Repository",
       "Repository": "RSPM",
       "Hash": "60167b7ec3de99e76ff406aaf0f83bb4"
+    },
+    "renv": {
+      "Package": "renv",
+      "Version": "0.8.3-37",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "renv",
+      "RemoteUsername": "rstudio",
+      "RemoteRef": "master",
+      "RemoteSha": "cfbbf9e9868f1a22a4d6748785ac15382b2feb59",
+      "Hash": "2b18ada748deadb3752293d72223f0ad"
     },
     "reshape2": {
       "Package": "reshape2",
